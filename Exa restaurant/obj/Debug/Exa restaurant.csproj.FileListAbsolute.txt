@@ -1,0 +1,17 @@
+D:\VSProjects\Exa restaurant\Exa restaurant\bin\Debug\Exa restaurant.exe.config
+D:\VSProjects\Exa restaurant\Exa restaurant\bin\Debug\Exa restaurant.exe
+D:\VSProjects\Exa restaurant\Exa restaurant\bin\Debug\Exa restaurant.pdb
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.csproj.AssemblyReference.cache
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.csproj.SuggestedBindingRedirects.cache
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa_restaurant.Properties.Resources.resources
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.csproj.GenerateResource.cache
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.csproj.CoreCompileInputs.cache
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.exe
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.pdb
+D:\VSProjects\Exa restaurant\Exa restaurant\bin\Debug\Guna.UI2.dll
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa_restaurant.giris.resources
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa restaurant.csproj.CopyComplete
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa_restaurant.Kullanicilar.resources
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa_restaurant.Kategoriler.resources
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa_restaurant.Urunler.resources
+D:\VSProjects\Exa restaurant\Exa restaurant\obj\Debug\Exa_restaurant.Odeme.resources
