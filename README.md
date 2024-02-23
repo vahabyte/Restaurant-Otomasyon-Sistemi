@@ -6,4 +6,4 @@ C# ile yazılmış temel bir cafe&amp;restaurant otomasyon sistemidir.Admin ve k
 
 ![2](https://github.com/vahabyte/Restaurant-Otomasyon-Sistemi/assets/58393269/c3ca0190-dfc2-49df-ae1e-17675d7ad54a)
 
-![3](https://github.com/vahabyte/Restaurant-Otomasyon-Sistemi/assets/58393269/9a3410b0-f54c-4f2f-96c1-560e7dc71668)
+![3](https://github.com/vahabyte/Restaurant-Otomasyon-Sistemi/assets/58393269/e9ff8130-5bc8-46d2-8cdd-954e89f9290f)
